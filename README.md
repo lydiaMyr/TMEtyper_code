@@ -1,2 +1,2 @@
 # TME-project
-![Graphical abstract](https://github.com/user-attachments/assets/b0c99a5d-a573-454b-ac8f-e883cd9e3851)
+<img width="1164" height="1372" alt="TOC-01" src="https://github.com/user-attachments/assets/11e49b1e-fdb2-4094-af0c-4738ecec438e" />
